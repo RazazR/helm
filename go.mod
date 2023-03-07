@@ -32,8 +32,8 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
+	golang.org/x/crypto v0.1.0
+	golang.org/x/term v0.1.0
 	k8s.io/api v0.23.3
 	k8s.io/apiextensions-apiserver v0.23.3
 	k8s.io/apimachinery v0.23.3
